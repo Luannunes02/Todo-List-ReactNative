@@ -7,7 +7,7 @@
 <br>
 <h2><strong> 📝 Descrição:</strong></h2>    
 
-Um app de lista de tarefas feito para você acrescentar suas tarefas e conforme vai terminando as tarefas, você pode apaga-la e deixar apenas as que estão pendentes.
+Um app de lista de tarefas feito para você acrescentar suas tarefas e conforme vai finalizando as tarefas, você pode apagá-la e deixar apenas as que estão pendentes.
 <br>
 <br>
 <h2><strong>🚀 Tecnologias usadas:</strong></h2>   
