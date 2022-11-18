@@ -16,7 +16,7 @@ Um app de lista de tarefas feito para você acrescentar suas tarefas e conforme 
   <img align='center' alt='ReactNative' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>  
   <img align='center' alt='CSS3' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'/> 
 </div>
-<br><br>
+<br>
 
 <h2><strong>😉 Entre em contato comigo:</strong></h2>   
 
